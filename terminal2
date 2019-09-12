@@ -1,0 +1,355 @@
+
+laetitiapuissieux: /Users/laetitiapuissieux/quetes/shell/planets: 
+$ history
+    1  telecharger visual studio code
+    2  exit
+    3  ls
+    4  ls telechargement
+    5  ls images
+    6  pwd
+    7  cd images
+    8  pwd
+    9  cd ..
+   10  ls Téléchargements
+   11  ls
+   12  cd ..
+   13  ls 
+   14  cd /Users/laetitiapuissieux
+   15  ls
+   16  cd Downloads/
+   17  cd..
+   18  cd -/Musique
+   19  :/Images$ cd -/Musique
+   20  Users/laetitiapuissieux
+   21  php -v
+   22  php -v
+   23  curl -s https://php-osx.liip.ch/install.sh | bash -s 7.3
+   24  cd ~
+   25  nano .bash_profile
+   26  brew install nvm
+   27  $ ssh-keygen -t rsa -b 4096 -C "letty40660@gmail.com
+   28  Generating public/private rsa key pair
+   29   Enter a file in which to save the key (/Users/you/.ssh/id_rsa): 
+   30  ll
+   31  ls -al
+   32  cd .ssjh
+   33  cd .ssh
+   34  ssh-keygen -t rsa -b 4096 -C "letty40660@gmai.com"
+   35  ls -al
+   36  cd .ssh
+   37  ls -al
+   38  eval "$(ssh-agent -s)"
+   39  Host *
+   40    AddKeysToAgent yes
+   41    UseKeychain yes
+   42    IdentityFile ~/.ssh/id_rsa
+   43  nano 
+   44  ls -al
+   45  ssh-add -K ~/.ssh/id_rsa
+   46  pbcopy < ~/.ssh/id_rsa.pub
+   47  cat id_rsa.pub
+   48  cd ~
+   49  git clone https://github.com/letty40/test.git
+   50  cd test/
+   51  ll
+   52  ls
+   53  gitk--version
+   54  git confi --l
+   55  git config --list
+   56  git config --global user.email puissieux@me.com
+   57  $ git config --global user.email puissieux@me.com
+   58  git config --list
+   59  brew
+   60  git config --global color.ui true
+   61  git config --global core.editor emacs 
+   62  git config --global core.editor nano
+   63  git config --global color.ui blue
+   64  ls -la
+   65  pwd
+   66  cd
+   67  pwd
+   68  ls
+   69  ls -la
+   70  vim .gitconfig 
+   71  vim .gitconfig 
+   72  vim .gitconfig 
+   73  nano .gitconfig 
+   74  cd ~
+   75  pwd
+   76  cd tmp/
+   77  cd /
+   78  ls -l
+   79  ls
+   80  :/tmp$ "je".txt
+   81  ls
+   82  man mv
+   83  man nav
+   84  studo install gitk
+   85  sudo install
+   86  sudo apt install gitk
+   87  sudo apt install gitk
+   88  Bresil2018
+   89  sudo apt install gitk
+   90  php -v
+   91  brew cask install vscode
+   92  brew cask install visual-studio-scode
+   93  brew cask install visual-studio-code
+   94  pwd
+   95  ls -al
+   96  code wild\ circus.txt 
+   97  cd test/
+   98  git config --global color.ui true
+   99  cd~
+  100  cd ~
+  101  ls
+  102  :/tmp
+  103  man pwd
+  104  ~/quetes/git/
+  105  git init
+  106  brew install tree wget unzip
+  107  quetes/shell
+  108  ~quetes/shell
+  109  /quetes/shell
+  110  ~/quetes/shell
+  111  cd~/quetes/shell
+  112  cd /quetes/shell
+  113  cd ~/quetes/shell
+  114  pwd
+  115  cd /quetes/shell
+  116  cd 
+  117  ls
+  118  cd quetes
+  119  cd shell
+  120  ls
+  121  mkdir shell
+  122  cd shell
+  123  pdw
+  124  pwd
+  125  cd
+  126  cd ~/quetes/shell
+  127   https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+  128  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+  129  unzip planets.zip
+  130  eog planets
+  131  open planets/mercury.jpeg
+  132  ls
+  133  cd planets
+  134  mkdir real
+  135  mkdir fictional
+  136  mkdir inhabited
+  137  cd planets/real
+  138  cd real
+  139  mkdir telluric
+  140  mkdir gas-giants
+  141  mkdir dwarf-planets
+  142  cd planets/fictionnal
+  143  cd planets fictional
+  144  cd planets/fictional
+  145  ls
+  146  cd fictional
+  147  cd ..
+  148  ls
+  149  pwd
+  150  ls 
+  151  mv cyberton.jepg fictional/
+  152  ls
+  153  mkdir telluric
+  154  rm -r telluric
+  155  ls
+  156  mv cybertron.jpeg fictional/
+  157  mv coruscant.jpeg fictional/
+  158  mv arrakis.jpeg fictional/
+  159  ls fictional
+  160  cd ..
+  161  cd planets real
+  162  mv mercury.jpeg telluric/
+  163  mv mercury.jpeg telluric
+  164  mv earth.jpeg telluric
+  165  mv mars.jpeg telluric
+  166  mv jupiter.jpeg gas-giants
+  167  mv uranus.jpeg gas-giants
+  168  mv neptune.jpeg gas-giants
+  169  mv saturne.jpeg gas-giants
+  170  cd quetes
+  171  ls
+  172  pwd
+  173  cd
+  174  ll
+  175  ls -al
+  176  nano .bash_profile 
+  177  exit
+  178  cd
+  179  nano .bash_profile 
+  180  ll
+  181  rm .bash_profile 
+  182  touch .bash_profile
+  183  nano .bash_profile 
+  184  exit
+  185  cd
+  186  nano .bash_profile 
+  187  exit
+  188  cd quetes/
+  189  cd
+  190  nano .bash_profile 
+  191  exit
+  192  ll
+  193  cd quetes/
+  194  cd shell/planets
+  195  cd quetes shell planets inhabited
+  196  mv real/earth.jpg inhabited/
+  197  mv real/earth.jpeg inhabited/
+  198  cp earth.jpg planets/inhabited
+  199  cp earth.jpg planets/inhabited/
+  200   cp earth.jpg inhabited
+  201  ls
+  202  cd quetes/
+  203  ll
+  204  ls
+  205  ll
+  206  cd shell/
+  207  ll
+  208  cd planets
+  209  ll
+  210  mv gas-giants gas-giants.jpeg
+  211  mv telluric telluric.jpeg
+  212  mv telluric.jpeg mars.jpeg
+  213  mkdir toto
+  214  touch toto
+  215  ll
+  216  ls
+  217  touch toto
+  218  ll
+  219  mv mars.jpeg real/telluric/
+  220  mv venus.jpeg real/telluric/
+  221  mv earth.jpeg real/telluric/
+  222  mv mercury.jpeg real/telluric/
+  223  mv earth.jpeg real/telluric/
+  224  mv pluto.jpeg real/dwarf-planets/
+  225  mv arrakis.jpeg real/dwarf-planets:
+  226  mv cybertron.jpeg real/dwarf-planets/
+  227  mv arrakis.jpeg real/dwarf-planets/
+  228  mv cybertron.jpeg real/dwarf-planets/
+  229  mv coruscant.jpeg real/dwarf-planets/
+  230  mv uranus.jpeg real/gas-giants/
+  231  cd
+  232  mkdir toto
+  233  cd ..
+  234  cd 
+  235  cd real
+  236  cd real/planets
+  237  cd quetes
+  238  pwd
+  239  cd quetes/shell
+  240  cd planets real
+  241  cd planets/real
+  242  cd real
+  243  cd real/
+  244  cd planets/real
+  245  cd quetes/shell/planets
+  246  mv mercury.jpeg telluric/
+  247  mv saturn.jpeg ~/quetes/shell/ planets/real/gas-giants
+  248  mv saturn.jpeg  ~/quetes/shell/ planets/real/gas-giants
+  249  mv saturn.jpeg  ~/quetes/shell/planets/real/gas-giants
+  250  cd ~/quetes/shell/planets
+  251  mv saturn.jpeg  ~/quetes/shell/planets/real/gas-giants
+  252  mv neptune.jpeg  ~/quetes/shell/planets/real/gas-giants
+  253  mv earth.jpeg  ~/quetes/shell/planets/real/telluric
+  254  mv venus.jpeg ~/quetes/shell/planets/real/telluric
+  255  mv venus.jpeg  ~/quetes/shell/planets/real/telluric
+  256  mv earth.jpeg ~/quetes/shell/planets/real/telluric
+  257  cd venus.jpeg ~/quetes/shell/planets/real/telluric
+  258  mv uranus.jpeg  ~/quetes/shell/planets/real/gas-giants
+  259  mv jupiter.jpeg  ~/quetes/shell/planets/real/gas-giants
+  260  mv earth.jpeg  ~/quetes/shell/planets/real/telluric
+  261  mv earth.jpeg  ~/quetes/shell/planets/real/telluric
+  262  mv mercury.jpeg ~/quetes/shell/planets/real/telluric
+  263  cd planets inhabited
+  264  cd planets/inhabites
+  265  cd /quetes/shell/planets/inhabited/
+  266  pwd
+  267  cd 
+  268  cd test/
+  269  gitk
+  270  brew install gitk
+  271  cd test/
+  272  cd test
+  273  gitk
+  274  git
+  275  ls
+  276  cd /quetes/shell/planets/inhabited/
+  277   cd quetes/shell/planets
+  278  cd quetes/shell/planets/inhabited
+  279  cd quetes/shell/planets/real
+  280  cd quetes/shell/planets
+  281  mv earthing.jpg real/inhabited/telluric/
+  282  cp earthing.jpg real/inhabited/telluric/
+  283  mv earthing.jpg real/inhabited/
+  284  cd quetes/shell/planets/real
+  285  mv real/telluric/earth.jpg inhabited/
+  286  mv real/ earth.jpeg inhabited/
+  287  mv real/mars.jpeg inhabited/
+  288  c ..
+  289  ls
+  290  cd quetes
+  291  cd shell
+  292  cd planets
+  293  cp home/wilder/quetes/shell/planets/arraki.jpeg home/wilder/quetes/planets/inhabited
+  294  cp home/wilder/quetes/shell/planets/arraki.jpeg home/wilder/quetes/planets/inhabited
+  295  cp home/wilder/quetes/shell/ planets/arraki.jpeg 
+  296  cp planets/arrakis.jpeg inhabited/
+  297  cp home/wilder/quetes/shell/planets/arrakis.jpeg home/wilder/quetes/planets/inhabited
+  298  cp inhabited/arrakis.jpeg fictional/
+  299  cp fictional/arrakis.jpeg inhabited/
+  300  cp fictionnel/cybertron.jpg inhabited/
+  301  cp fictional/cybertron.jpg inhabited/
+  302  cp fictional/cyberton.jpg inhabited/
+  303  cp fictional/earth.jpg inhabited/
+  304  cp fictional/arrakis.jpeg inhabited/
+  305  cp fictional/coruscant.jpeg inhabited/
+  306  cp telluric/earth.jpeg inhabited/
+  307  cp real/telluric/earth.jpg inhabited/
+  308  cp planets/inhabited/real/telluricearth.jpeg inhabited/
+  309  planets/inhabited/real/telluric/earth.jpeg inhabited/
+  310  cp planets/inhabited/real/telluric/earth.jpeg inhabited/
+  311   cp planets/real/telluric/earth.jpeg inhabited/
+  312  cp real/planets
+  313  mv real/planets
+  314  ls
+  315  pwd
+  316  cd quetes/shell/planets
+  317  cd inhabited
+  318  mv real/ ../
+  319  cd ..
+  320  tree
+  321  cp fictinal/cybertron.jpeg inhabited/
+  322  CP
+  323  cp telluric/earth.jpeg inhabited
+  324  cp real/telluric/earth.jpeg inhabited/
+  325  cp fictinal/cyberton.jpeg inhabited/
+  326  cp fictional/cybertron.jpeg inhabited/
+  327  nano ~/.bash_profile
+  328  exit
+  329  find
+  330  rm -r planets/real/ pluto.jpeg /
+  331  rm -r planets/real/telluric
+  332  rm -r planets/real/dwarf-planets/
+  333  TREE
+  334  PWD
+  335  CD quetes/shell/planets
+  336  tree
+  337  pwd
+  338  cd quetes/shell/planets
+  339  pwd
+  340  tree
+  341  rm -r real/dwarf-planets/
+  342  tree
+  343  cd
+  344  pwd
+  345  tree
+  346  tree
+  347  clear
+  348  tree
+  349  clear
+  350  cd quetes/shell/planets
+  351  tree
+  352  history
