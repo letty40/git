@@ -1,0 +1,26 @@
+
+laetitiapuissieux: /Users/laetitiapuissieux/quetes/shell/planets: 
+$ tree
+.
+├── fictional
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   └── cybertron.jpeg
+├── inhabited
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   ├── cybertron.jpeg
+│   └── earth.jpeg
+└── real
+    ├── gas-giants
+    │   ├── jupiter.jpeg
+    │   ├── neptune.jpeg
+    │   ├── saturn.jpeg
+    │   └── uranus.jpeg
+    └── telluric
+        ├── earth.jpeg
+        ├── mars.jpeg
+        ├── mercury.jpeg
+        └── venus.jpeg
+
+5 directories, 15 files
